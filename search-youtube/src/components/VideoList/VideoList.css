@@ -1,0 +1,9 @@
+.letra {
+    padding: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.paginator-item {
+    cursor: pointer;
+}
